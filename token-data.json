@@ -1,0 +1,5 @@
+{
+    "labels": ["Holder A", "Holder B", "Holder C", "Circulating Supply"],
+    "values": [50, 30, 20, 100],
+    "colors": ["#ff6384", "#36a2eb", "#ffce56", "#4bc0c0"]
+}
